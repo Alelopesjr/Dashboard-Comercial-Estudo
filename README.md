@@ -5,3 +5,5 @@
 ## Situação do Problema
 
 Esse dashboard foi realizado como forma de estudo, os dados utilizados são fictícios. 
+
+!https://github.com/Alelopesjr/Dashboard-Comercial-Estudo/issues/1#issue-2432914670
